@@ -6,7 +6,7 @@
 
 * Proje Ekibi : Seyithan Topal
 
-1. [Proje Planı]()
+1. [Proje Planı](https://github.com/Seyit10/freelancer-app/blob/main/Assets/projeplan.png)
 2. [Gereksinim Analizi]()
 3. [Durum Diyagramı]()
 4. [Durum Senaryoları]()
