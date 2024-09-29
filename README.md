@@ -7,7 +7,7 @@
 * Proje Ekibi : Seyithan Topal
 
 1. [Proje Planı](https://github.com/Seyit10/freelancer-app/blob/main/Assets/projeplan.png)
-2. [Gereksinim Analizi]()
+2. [Gereksinim Analizi](https://github.com/Seyit10/freelancer-app/blob/main/GereksinimAnalizi.md)
 3. [Durum Diyagramı]()
 4. [Durum Senaryoları]()
 5. [Veritabanı Diyagramı]()
