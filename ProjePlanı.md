@@ -1,3 +1,3 @@
 # Proje Planı : 
 
-![projeplanı](https://github.com/Seyit10/postmates-project/blob/main/assets/projeplani.jpg)
+![projeplanı](https://github.com/Seyit10/freelancer-app/blob/main/Assets/projeplan.png)
