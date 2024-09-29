@@ -8,7 +8,7 @@
 
 1. [Proje Planı](https://github.com/Seyit10/freelancer-app/blob/main/ProjePlanı.md)
 2. [Gereksinim Analizi](https://github.com/Seyit10/freelancer-app/blob/main/GereksinimAnalizi.md)
-3. [Durum Diyagramı]()
+3. [Durum Diyagramı](https://github.com/Seyit10/freelancer-app/blob/main/DurumDiyagramı.md)
 4. [Durum Senaryoları]()
 5. [Veritabanı Diyagramı]()
 6. [Front-End]()
