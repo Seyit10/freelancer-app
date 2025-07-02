@@ -1,4 +1,4 @@
-# Freelancer Job Typescript MERN App
+# Freelancer & Job Portal Typescript Java Spring Boot App
 
 * Proje Tanımı: Bu projenin amacı, kullanıcıların yetenekleri doğrultusunda bağımsız olarak işverenlerle iletişim kurmasını sağlamaktır. Platform, işverenlerin ihtiyaç duydukları projeler için uygun freelancer'ları bulmasını, freelancer'ların ise yeteneklerine ve ilgilerine uygun projelerle buluşmasını kolaylaştıracaktır.
 
